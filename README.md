@@ -1,8 +1,6 @@
 # PowerBI-Projects
 This is a simple project
 
-Challenge: Who wins the motorbike competition?
-
 We are an electronics retail company having shops in Delhi, Gujarat & Maharashtra.
 We hire salesmen to work in our shops and sell our products.
 We have announced the prize of an amazing motorbike to the salesman who makes the most amount of sales.
