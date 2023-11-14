@@ -1,0 +1,11 @@
+S1: Added sales data from Excel to the Power BI display.
+S2: A clustered column chart was utilized.
+S3: I have added the State, Salesman, and Date of Sale (Year, Quarter, and Month) to the X-axis.
+S4: Total sales amount on the Y-axis 
+S5: Legend, State
+S6: I have included the total quantity in the tooltip (for each salesman) as additional information.
+S7: Formatted the image and added colors
+S8: I added the product to the field and utilized the Slicer Visual.
+S9: I utilized Card Visual and added the whole sales amount to show the overall sales.
+S10: In order to show additional information that the Q&A visual suggested, I used it.
+S11: A text was added, formatted, and given the name "Business Sales Report."
